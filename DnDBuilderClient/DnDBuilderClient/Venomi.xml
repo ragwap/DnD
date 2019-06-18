@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <dndCharacter>
+    <Name>Venomi</Name>
+    <Age>56</Age>
+    <Gender>M</Gender>
+    <Bio>Weak</Bio>
+    <Level>1</Level>
+    <Race>Dwarf</Race>
+    <Class>Cleric</Class>
+    <Spellcaster>yes</Spellcaster>
+    <Hit_x0020_Points>8</Hit_x0020_Points>
+    <Ability_x0020_Score>0</Ability_x0020_Score>
+  </dndCharacter>
+</NewDataSet>

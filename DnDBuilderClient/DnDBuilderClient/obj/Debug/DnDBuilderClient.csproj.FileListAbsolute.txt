@@ -1,0 +1,15 @@
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/DnDBuilderClient.dll
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/DnDBuilderClient.pdb
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/Newtonsoft.Json.dll
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/System.Net.Http.Formatting.dll
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/System.Web.Http.dll
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/System.Web.Http.WebHost.dll
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/System.Net.Http.Formatting.xml
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/System.Web.Http.xml
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/System.Web.Http.WebHost.xml
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/bin/Newtonsoft.Json.xml
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/obj/Debug/DnDBuilderClient.csprojAssemblyReference.cache
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/obj/Debug/DnDBuilderClient.csproj.CoreCompileInputs.cache
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/obj/Debug/DnDBuilderClient.csproj.CopyComplete
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/obj/Debug/DnDBuilderClient.dll
+/home/ravindu/DC_Assignment1/DnDBuilderClient/DnDBuilderClient/obj/Debug/DnDBuilderClient.pdb

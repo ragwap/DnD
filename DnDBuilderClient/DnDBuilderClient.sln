@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDBuilderClient", "DnDBuilderClient\DnDBuilderClient.csproj", "{668DB9A8-48F0-48E5-9866-49792AF16E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDBuilderClient.Tests", "DnDBuilderClient.Tests\DnDBuilderClient.Tests.csproj", "{51033062-DE81-42D4-A476-71E5F347406F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668DB9A8-48F0-48E5-9866-49792AF16E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668DB9A8-48F0-48E5-9866-49792AF16E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668DB9A8-48F0-48E5-9866-49792AF16E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668DB9A8-48F0-48E5-9866-49792AF16E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51033062-DE81-42D4-A476-71E5F347406F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51033062-DE81-42D4-A476-71E5F347406F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51033062-DE81-42D4-A476-71E5F347406F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51033062-DE81-42D4-A476-71E5F347406F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

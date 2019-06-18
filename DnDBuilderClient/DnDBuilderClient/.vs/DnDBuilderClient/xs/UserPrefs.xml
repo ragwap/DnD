@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{668DB9A8-48F0-48E5-9866-49792AF16E84}|">
+  <MonoDevelop.Ide.ItemProperties.DnDBuilderClient PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DnDClient/DnDClient.aspx">
+    <Files>
+      <File FileName="Controllers/DnDController.cs" Line="314" Column="25" />
+      <File FileName="Controllers/DnDClass.cs" Line="24" Column="1" />
+      <File FileName="Controllers/DnDRace.cs" Line="15" Column="10" />
+      <File FileName="DnDClient/DnDClient.aspx" Line="360" Column="40" />
+      <File FileName="Controllers/Results.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

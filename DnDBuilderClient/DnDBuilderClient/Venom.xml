@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <dndCharacter>
+    <Name>Venom</Name>
+    <Age>117</Age>
+    <Gender>M</Gender>
+    <Bio>Strong</Bio>
+    <Level>20</Level>
+    <Race>Dragonborn</Race>
+    <Class>Fighter</Class>
+    <Spellcaster>no</Spellcaster>
+    <Hit_x0020_Points>202</Hit_x0020_Points>
+    <Ability_x0020_Score>0</Ability_x0020_Score>
+  </dndCharacter>
+</NewDataSet>
